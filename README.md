@@ -2,6 +2,7 @@
 
 
 - 🔭 Estagiário de dessenvolvimento Mobile 
+- 🔭 7 meses de Estagio produzindo videos de Treinamento de um Sistema ERP 
 - 🌱 Estudando Flutter e Dessenvolvimento Web
 - 📫 Contate-me no email: ga.gabrielmenoi@gmail.com
 <p><i> Encontre-me nas redes sociais:</i><br></p>
