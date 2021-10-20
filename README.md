@@ -1,4 +1,4 @@
-### Oá eu sou Gabriel Menoi 👋
+### Olá eu sou Gabriel Menoi 👋
 
 
 - 🔭 Estagiário de dessenvolvimento Mobile 
