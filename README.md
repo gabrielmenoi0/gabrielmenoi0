@@ -1,7 +1,7 @@
 ### Olá eu sou Gabriel Menoi 👋
 
 
-- 🔭 Estagiário de dessenvolvimento Mobile 
+- 🔭 Dessenvolvedor Mobile Jr
 - 🔭 7 meses de Estágio produzindo videos de Treinamento de um Sistema ERP 
 - 🌱 Estudando Flutter e Dessenvolvimento Web
 - 📫 Contate-me no email: ga.gabrielmenoi@gmail.com
