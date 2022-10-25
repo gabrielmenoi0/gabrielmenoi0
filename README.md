@@ -2,8 +2,7 @@
 
 
 - 🔭 Desenvolvedor Mobile Jr
-- 🔭 7 meses de Estágio produzindo videos de Treinamento de um Sistema ERP 
-- 🌱 Estudando Flutter e Dessenvolvimento Web
+- 🌱 Estudando Flutter, Kotlin e Spring Framework
 - 📫 Contate-me no email: ga.gabrielmenoi@gmail.com
 <div align="center">
 <p align="center"><i> Encontre-me nas redes sociais:</i><br></p>
