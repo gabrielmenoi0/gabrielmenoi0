@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor Mobile Jr
-- 🌱 Estudando Flutter, Kotlin e Spring Framework
+- 🌱 Estudando Flutter, Kotlin, Swift e Spring Framework
 - 📫 Contate-me no email: ga.gabrielmenoi@gmail.com
 <div align="center">
 <p align="center"><i> Encontre-me nas redes sociais:</i><br></p>
