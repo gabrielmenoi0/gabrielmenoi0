@@ -6,7 +6,7 @@
   "country":  "Brazil",
   "city":     "Vera Cruz (SP)",
   "stack":    ["Flutter", "Dart", "Java", "Spring Boot", "AWS", "Kotlin", "Swift", "..."],
-  "interest": ["Clean Code", "BackEnd", "Go", "..."], 
+  "interest": ["Moblie world", "Clean Code", "BackEnd", "Microservices","Go", "Software architecture","..."], 
 }
 ```
 
