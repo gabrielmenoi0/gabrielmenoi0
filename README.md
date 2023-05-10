@@ -9,9 +9,8 @@
   "interest": ["Clean Code", "BackEnd", "Go", "..."], 
 }
 ```
-- 🔭 Desenvolvedor Mobile Jr
-- 🌱 Estudando Flutter, Kotlin, Swift e Spring Framework
-- 📫 Educador voluntário no projeto DevMentors Marília dessenvolvedores Flutter https://devmenthors.com.br/
+
+- 📚 Educador voluntário no projeto DevMentors Marília dessenvolvedores Flutter https://devmenthors.com.br/
 - 📫 Contate-me no email: ga.gabrielmenoi@gmail.com
 <div align="center">
 <p align="center"><i> Encontre-me nas redes sociais:</i><br></p>
