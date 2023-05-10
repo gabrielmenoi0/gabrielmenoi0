@@ -1,8 +1,17 @@
 ### Olá eu sou Gabriel Menoi 👋
 
-
+```json
+{
+  "job":      "Mobile Developer",
+  "country":  "Brazil",
+  "city":     "Vera Cruz (SP)",
+  "stack":    ["Flutter", "Dart", "Java", "Spring Boot", "AWS", "Kotlin", "Swift", "..."],
+  "interest": ["Clean Code", "BackEnd", "Go", "..."], 
+}
+```
 - 🔭 Desenvolvedor Mobile Jr
 - 🌱 Estudando Flutter, Kotlin, Swift e Spring Framework
+- 📫 Educador voluntário no projeto DevMentors Marília dessenvolvedores Flutter https://devmenthors.com.br/
 - 📫 Contate-me no email: ga.gabrielmenoi@gmail.com
 <div align="center">
 <p align="center"><i> Encontre-me nas redes sociais:</i><br></p>
