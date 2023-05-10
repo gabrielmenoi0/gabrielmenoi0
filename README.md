@@ -10,8 +10,8 @@
 }
 ```
 
-- 📚 Educador voluntário no projeto DevMentors Marília dessenvolvedores Flutter https://devmenthors.com.br/
-- 📫 Contate-me no email: ga.gabrielmenoi@gmail.com
+- 📚 Educador voluntário no projeto "DevMentors Marília desenvolvedores Flutter" -> https://devmenthors.com.br/
+- 📫 Contate-me no email -> ga.gabrielmenoi@gmail.com
 <div align="center">
 <p align="center"><i> Encontre-me nas redes sociais:</i><br></p>
 <a align="center" href="https://br.linkedin.com/in/gabrielmenoi" rel="nofollow">
