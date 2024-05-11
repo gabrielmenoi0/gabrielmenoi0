@@ -2,7 +2,7 @@
 
 ```json
 {
-  "job":      "Mobile Developer",
+  "job":      "Mobile Developer & Tech Lead",
   "country":  "Brazil",
   "city":     "Vera Cruz (SP)",
   "stack":    ["Flutter", "Dart", "Java", "Spring Boot", "Kotlin", "Swift", "..."],
